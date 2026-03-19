@@ -1,56 +1,63 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app"/>
+<img width="100%" src="https://capsule-render.vercel.app""")/>>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
 </p>
 
-# 🏢 Software Engineering & Data Architecture
-Estudiante de Ingeniería de Software enfocada en el diseño de sistemas robustos, optimización de consultas complejas y despliegue de soluciones basadas en datos. Mi enfoque combina la precisión del **Backend** con la potencia del **Deep Learning**.
-
-### 🛠️ Strategic Tech Stack
-
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend & Logic** | ![Python](https://img.shields.io) ![C++](https://img.shields.io) |
-| **Database Arch** | ![PostgreSQL](https://img.shields.io) ![MySQL](https://img.shields.io) ![Supabase](https://img.shields.io) |
-| **DevOps & Tools** | ![Git](https://img.shields.io) ![GitHub](https://img.shields.io) ![Docker](https://img.shields.io) |
-| **AI & Research** | ![Deep Learning](https://img.shields.io) ![NumPy](https://img.shields.io) |
+# 💻 Engineering Workspace
+Bienvenido a mi repositorio central. Como **Arquitecta de Software**, mi enfoque en GitHub se centra en la creación de estructuras de datos eficientes, la automatización de procesos mediante Python y la exploración de arquitecturas escalables en la nube.
 
 ---
 
-### 🚀 Roadmap & Current Focus
-- 🏗️ **Arquitectura:** Especializándome en patrones de diseño y microservicios.
-- 📉 **Data Science:** Implementando modelos de ML para análisis predictivo.
-- ⚡ **Performance:** Optimización de procedimientos almacenados y estructuras de datos complejas.
+### 🏛️ Architecture & Tech Stack
+<div align="center">
+
+
+| Core Logic | Database Systems | Dev Environments |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io) | ![PostgreSQL](https://img.shields.io) | ![Git](https://img.shields.io) |
+| ![Deep Learning](https://img.shields.io) | ![MySQL](https://img.shields.io) | ![Docker](https://img.shields.io) |
+| ![FastAPI](https://img.shields.io) | ![Supabase](https://img.shields.io) | ![VSCode](https://img.shields.io) |
+
+</div>
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 GitHub Activity Hub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app" width="48%" />
-  <img src="https://github-readme-stats.vercel.app" width="48%" />
+  <img src="https://github-readme-stats.vercel.app" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app" width="100%""")/>>
 </p>
 
 ---
 
-### 🎵 Signal & Rhythm
-> "Writing code is like composing music: every function has its rhythm."
+### ⚡ Professional Insights
+- 🔭 **Current Project:** Optimizando motores de búsqueda mediante SQL Avanzado.
+- ⚡ **Backend Motto:** *"Si el código no es escalable, es deuda técnica."*
+- 🐈 **GitHub Streak:** Enfocada en mantener un flujo de trabajo diario de alta calidad.
 
-<p align="left">
-  <a href="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing">
-    <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Spotify" width="300"/>
+---
+
+### 🎧 Deep Focus Protocol
+<p align="center">
+  <a href="https://spotify-now-playing-sauravchamoli17.vercel.app">
+    <img src="https://spotify-now-playing-sauravchamoli17.vercel.app" alt="Spotify" width="380""")/>>
   </a>
 </p>
 
-<p align="right">
-  <a href="https://www.instagram.com/shth_lll">
+<p align="center">
+  <a href="https://www.instagram.com">
     <img src="https://img.shields.io" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app" width="100%"/>
+  <img src="https://capsule-render.vercel.app" width="100%""")/>>
 </p>
