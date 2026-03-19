@@ -60,7 +60,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solsolsolsololanos-netizen&theme=react-dark&color=EE2C2C&line=EE2C2C&point=ffffff&area=true" width="100%"/>
+  <img src=
 </p>
 
 ---
