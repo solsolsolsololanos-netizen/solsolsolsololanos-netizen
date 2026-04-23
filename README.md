@@ -1,81 +1,69 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=Engineering%20Workspace&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:720e0e&height=220&section=header&text=SHANNYTH%20SOLSOL&fontColor=f5f5dc&animation=fadeIn&fontSize=70" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-darkblue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mode-Deep%20Work-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Future%20Software%20Engineer-720e0e?style=for-the-badge&logo=target"/>
+  <img src="https://img.shields.io/badge/Style-Inigualable-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vibe-Deep%20Wine%20%26%20Logic-720e0e?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👁️‍🗨️ Engineering Workspace
+# 👩‍💻 Inigualable Software Engineer Profile
 
-Bienvenido a mi entorno de desarrollo.  
-Me enfoco en la construcción de sistemas **escalables, eficientes y seguros**, aplicando principios de arquitectura y optimización.
+Soy **Shannyth Solsol**, estudiante de Ingeniería de Software con un enfoque analítico y una visión diferente. No solo escribo código, diseño estructuras lógicas optimizadas bajo el protocolo de máxima eficiencia.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXFmNHZ4N3R6bmJ3M3J6bmJ3M3J6bmJ3M3J6bmJ3M3J6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mlvseq9yvZhba/giphy.gif" width="280" alt="Black Cat Logic"/>
+</p>
 
 ---
 
-## 🧠 Architecture & Tech Stack
+## 🏗️ Architecture Stack (3D Driven)
 
 <div align="center">
 
-| Core Logic | Database Systems | Dev Tools |
+| ⚡ Logic Core | 🗄️ Database | 🛠️ Tools |
 |------------|----------------|----------|
-| Python 🐍 | PostgreSQL 🐘 | Git ⚡ |
-| FastAPI ⚙️ | MySQL 💾 | Docker 🐳 |
-| AI / Logic 🧠 | Supabase ☁️ | VSCode 🧩 |
+| **Java** | **SQL (Advanced)** | **Git / GitHub** |
+| **Python** | **VinoBank System** | **NetBeans** |
+| **Node.js** | **Data Architecture**| **Docker** |
 
 </div>
 
 ---
 
-## 🌌 Visual Core (Dark Mode + Animación)
+## 🌌 System Aesthetics (Wine & Dark)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=System+Architecture;Backend+Engineering;Scalable+Solutions;Dark+Mode+Active" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=720e0e&center=true&vCenter=true&width=600&size=25&lines=Software+Engineering+Student;Inigualable+Logic;Vino+Tinto+Aesthetics;Night+Shift+Coder" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 System Stats & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&bg_color=0d1117&title_color=720e0e&text_color=f5f5dc&icon_color=720e0e&border_color=720e0e" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&background=0d1117&stroke=720e0e&ring=720e0e&fire=720e0e&currStreakNum=f5f5dc&sideNums=f5f5dc&currStreakLabel=f5f5dc&sideLabels=f5f5dc&dates=f5f5dc" width="48%" />
 </p>
 
 ---
 
-## ⚡ Professional Insights
+## ⚡ Technical Protocol
 
-- 🔭 Proyecto actual: Optimización de consultas SQL avanzadas  
-- ⚙️ Enfoque: Arquitectura backend escalable  
-- 🐈‍⬛ Estado: Deep Focus Mode  
+- 🔭 **Focus:** Arquitectura de backend y sistemas bancarios (**VinoBank**).
+- ⚙️ **Modo:** Concentración profunda / Night Shift (17:00 - 00:00).
+- 🤝 **Trust:** Conexión selectiva. Proyectos con lógica real.
+- 📸 **Social:** [Instagram @shth_lll](https://www.instagram.com/shth_lll?igsh=MXNlN3NpN2RjemcxbQ==)
 
-> “Un sistema sin arquitectura es solo código acumulado.”
-
----
-
-## 🎧 Deep Focus Protocol
-
-<p align="center">
-  <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify" width="380"/>
-</p>
+> *"La arquitectura es el lenguaje de la lógica hecha arte."*
 
 ---
 
-## 🌑 Dark Presence
+## 🌑 Connection Close
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:720e0e&height=120&section=footer"/>
 </p>
