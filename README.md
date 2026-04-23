@@ -1,69 +1,60 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:720e0e&height=220&section=header&text=SHANNYTH%20SOLSOL&fontColor=f5f5dc&animation=fadeIn&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:720e0e&height=200&section=header&text=SHANNYTH%20SOLSOL&fontColor=f5f5dc&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Future%20Software%20Engineer-720e0e?style=for-the-badge&logo=target"/>
-  <img src="https://img.shields.io/badge/Style-Inigualable-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vibe-Deep%20Wine%20%26%20Logic-720e0e?style=for-the-badge"/>
+  <img src="https://media.tenor.com/9nKcOUBEhcQAAAAi/cat-roll.gif" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-FUTURE%20SOFTWARE%20ENGINEER-720e0e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TYPE-INIGUALABLE-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VIBE-INTENSE%20WINE-720e0e?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👩‍💻 Inigualable Software Engineer Profile
+# 👁️‍🗨️ SYSTEM_CORE: SHANNYTH_SOLSOL
 
-Soy **Shannyth Solsol**, estudiante de Ingeniería de Software con un enfoque analítico y una visión diferente. No solo escribo código, diseño estructuras lógicas optimizadas bajo el protocolo de máxima eficiencia.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXFmNHZ4N3R6bmJ3M3J6bmJ3M3J6bmJ3M3J6bmJ3M3J6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mlvseq9yvZhba/giphy.gif" width="280" alt="Black Cat Logic"/>
-</p>
+> **"Un sistema sin arquitectura es solo caos. Yo soy el orden."** Estudiante de Ingeniería de Software. Mi lógica es **diferente, inigualable e implacable**. No diseño simplemente software; construyo estructuras lógicas con arquitectura de datos superior.
 
 ---
 
-## 🏗️ Architecture Stack (3D Driven)
+## 🏗️ ARCHITECTURE STACK
 
 <div align="center">
 
-| ⚡ Logic Core | 🗄️ Database | 🛠️ Tools |
-|------------|----------------|----------|
-| **Java** | **SQL (Advanced)** | **Git / GitHub** |
-| **Python** | **VinoBank System** | **NetBeans** |
-| **Node.js** | **Data Architecture**| **Docker** |
+| 🔴 LOGIC ENGINE | 🌑 DATA SYSTEMS | ⚙️ PROTOCOLS |
+| :--- | :--- | :--- |
+| **Java / Python** | **SQL Advanced** | **Git / GitHub** |
+| **Node.js** | **VinoBank System** | **Docker** |
+| **Backend Dev** | **Relational Logic** | **NetBeans** |
 
 </div>
 
 ---
 
-## 🌌 System Aesthetics (Wine & Dark)
+## 🌌 VISUAL PERFORMANCE
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=720e0e&center=true&vCenter=true&width=600&size=25&lines=Software+Engineering+Student;Inigualable+Logic;Vino+Tinto+Aesthetics;Night+Shift+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=720e0e&center=true&vCenter=true&width=600&size=35&lines=FUTURA+INGENIERA;LOGICA+INIGUALABLE;SHANNYTH+SOLSOL;VINO+TINTO+POWER" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,nodejs,mysql,postgres,git,github,docker,linux,netlify&theme=dark" />
 </p>
 
 ---
 
-## 📈 System Stats & Performance
+## ⚡ OPERATIONAL INSIGHTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&bg_color=0d1117&title_color=720e0e&text_color=f5f5dc&icon_color=720e0e&border_color=720e0e" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&background=0d1117&stroke=720e0e&ring=720e0e&fire=720e0e&currStreakNum=f5f5dc&sideNums=f5f5dc&currStreakLabel=f5f5dc&sideLabels=f5f5dc&dates=f5f5dc" width="48%" />
-</p>
-
----
-
-## ⚡ Technical Protocol
-
-- 🔭 **Focus:** Arquitectura de backend y sistemas bancarios (**VinoBank**).
-- ⚙️ **Modo:** Concentración profunda / Night Shift (17:00 - 00:00).
-- 🤝 **Trust:** Conexión selectiva. Proyectos con lógica real.
-- 📸 **Social:** [Instagram @shth_lll](https://www.instagram.com/shth_lll?igsh=MXNlN3NpN2RjemcxbQ==)
-
-> *"La arquitectura es el lenguaje de la lógica hecha arte."*
+* 🔭 **Focus:** Arquitectura de backend y seguridad en **VinoBank**.
+* ⚙️ **Protocol:** Night Shift Execution (17:00 - 00:00).
+* 🐈‍⬛ **Vibe:** Lógica INTP/INTJ. Confianza selectiva. Seguridad absoluta.
+* 📸 **Connect:** [Instagram @shth_lll](https://www.instagram.com/shth_lll?igsh=MXNlN3NpN2RjemcxbQ==)
 
 ---
 
-## 🌑 Connection Close
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:720e0e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:720e0e&height=100&section=footer" />
 </p>
