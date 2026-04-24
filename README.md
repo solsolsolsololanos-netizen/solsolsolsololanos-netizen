@@ -1,78 +1,58 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:720e0e&height=220&section=header&text=SHANNYTH%20SOLSOL&fontColor=f5f5dc&fontSize=75&animation=fadeIn" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:720e0e&height=220&section=header&text=SHANNYTH%20SOLSOL&fontColor=f5f5dc&fontSize=70&animation=fadeIn" />
+  
+  <br>
+  
   <img src="https://media.tenor.com/9nKcOUBEhcQAAAAi/cat-roll.gif" width="280" />
-</p>
-
-<p align="center">
+  
+  <br>
+  
   <img src="https://img.shields.io/badge/VERSION-2.0.26-720e0e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ENGINEER-SOFTWARE-black?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/LOGIC-UNMATCHED-720e0e?style=for-the-badge"/>
-</p>
-
----
-
-# 👁️‍🗨️ SYSTEM_PROFILE: SHANNYTH_SOLSOL | ARCHITECT
-
-Especialista en Ingeniería de Software con enfoque en la **Arquitectura de Sistemas de Alta Disponibilidad**. Mi práctica profesional se centra en la transición de requerimientos complejos hacia infraestructuras backend escalables. No solo desarrollo código; gobierno ecosistemas de datos donde la integridad relacional y la eficiencia de los procesos son constantes absolutas. Aquí se presentan sistemas optimizados bajo principios de ingeniería rigurosa y lógica de arquitectura inigualable.
-
----
-
-## 📊 ARCHITECTURAL PROGRESS
-`LOGIC_STABILITY  ` [████████████████████████] 100%  
-`DATA_GOVERNANCE  ` [██████████████████████░░] 92%  
-`SYSTEM_EFFICIENCY` [████████████████████████] 100%
-
----
-
-## 🏗️ CORE STACK & TECHNOLOGIES
-
-<div align="center">
-
-| 🔴 BACKEND ENGINE | 🌑 DATA ARCHITECTURE | ⚙️ INFRASTRUCTURE |
-| :--- | :--- | :--- |
-| **Java (J2EE)** | **SQL Advanced Querying** | **Docker Containerization** |
-| **Python / Node.js** | **VinoBank Ecosystem** | **CI-CD Pipelines** |
-| **Logic Orchestration**| **Relational Modeling** | **Git / GitHub Flow** |
-
 </div>
 
----
+<br><br>
 
-## 🌌 PERFORMANCE MONITORING
+<div align="center">
+  <h2 style="border-bottom: none; color: #f5f5dc;">👁️‍🗨️ SYSTEM_PROFILE | ARCHITECT</h2>
+  <p style="color: #a0a0a0; max-width: 850px; font-family: monospace;">
+    Especialista en Ingeniería de Software con enfoque en la <b>Arquitectura de Sistemas de Alta Disponibilidad</b>. Gobierno ecosistemas de datos donde la integridad relacional y la eficiencia son constantes absolutas.
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=720e0e&center=true&vCenter=true&width=600&size=35&lines=SCALABLE+ARCHITECTURE;BACKEND+GOVERNANCE;SHANNYTH+SOLSOL;PREMIUM+LOGIC+ONLY" />
-</p>
+<br>
 
-<p align="center">
+<div align="center">
+  <h2 style="border-bottom: none; color: #f5f5dc;">🏗️ CORE STACK & TECHNOLOGIES</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?color=720e0e&center=true&vCenter=true&width=600&size=30&lines=CORE+SYSTEMS+OPTIMIZED;BACKEND+GOVERNANCE;DATA+ARCHITECT" />
+  
+  <br><br>
+  
   <img src="https://skillicons.dev/icons?i=java,py,nodejs,mysql,postgres,git,github,docker,linux,maven&theme=dark" />
-</p>
+</div>
 
----
+<br><br>
 
-## ⚡ CONNECTION PROTOCOLS (INTERPERSONAL)
+<div align="center">
+  <h2 style="border-bottom: none; color: #f5f5dc;">⚡ CONNECTION_PROTOCOLS & VIBE</h2>
+  <img src="https://cdn.pixabay.com/animation/2023/11/09/14/05/14-05-49-163_512.gif" width="80" />
+  
+  <br><br>
 
-<p align="center">
-  <a href="https://www.instagram.com/shth_lll?igsh=MXNlN3NpN2RjemcxbQ==">
+  <a href="https://www.instagram.com/shth_lll">
     <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:TU_GMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://open.spotify.com/user/31bsgx5qtocgpahnsul5alxk4qcm?si=gdDp1veUTqCB86V8HU9GXg">
+    <img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/shth-lll/VinoBank">
+    <img src="https://img.shields.io/badge/VINOBANK_REPO-720e0e?style=for-the-badge&logo=probot&logoColor=white"/>
   </a>
-</p>
+</div>
 
-- 🔭 **Current Focus:** Refactorización avanzada del núcleo **VinoBank**.
-- ⚙️ **Operating Hours:** Night Shift Protocol (17:00 - 00:00).
-- 🐈‍⬛ **Vibe:** Confianza ganada por mérito técnico. Seguridad en la ejecución.
+<br><br>
 
----
-
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:720e0e&height=100&section=footer" />
-</p>
+</div>
